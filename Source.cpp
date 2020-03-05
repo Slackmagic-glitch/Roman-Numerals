@@ -146,7 +146,7 @@ std::string convertInt(std::string entry) {
 
 int main(void) {
 	//Welcome Statement
-	std::cout << "Test" << std::endl << std::endl;
+	std::cout << "Welcome to Roman Numeral to Decimal and vice versa translator" << std::endl << std::endl;
 	bool cont = true;
 
 
